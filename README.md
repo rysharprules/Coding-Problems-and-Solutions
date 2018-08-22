@@ -1,4 +1,4 @@
-## Sandbox
+# Sandbox
 
 <p>
     <img src="https://raw.githubusercontent.com/rysharprules/Sandbox/master/sandbox.png" height="117" width="168">
