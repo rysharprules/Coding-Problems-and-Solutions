@@ -4,11 +4,11 @@
     </a>
 </p>
 
-## Java
-### Introduction
+## Algorithms
+### Easy
 |Challenge|Solution|
 |:---:|:---:|
-| [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Two%20Sum/Solution.java) |
+| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Two%20Sum/Solution.java) |
 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Jewels%20and%20Stones/Solution.java) |
 | [To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/To%20Lower%20Case/Solution.java) |
 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/tree/master/LeetCode/Algorithms/Easy/Unique%20Morse%20Code%20Words) |
