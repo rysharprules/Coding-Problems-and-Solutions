@@ -8,4 +8,4 @@
 ### Introduction
 |Challenge|Solution|
 |:---:|:---:|
-| [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/HackerRank/Java/Introduction/Solution.java) |
+| [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Introduction/Solution.java) |
