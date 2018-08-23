@@ -1,3 +1,6 @@
+import java.util.HashSet;
+import java.util.Set;
+
 class Solution {
     public int uniqueMorseRepresentations(String[] words) {
         String[] morse = {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
@@ -5,7 +8,7 @@ class Solution {
         for(String word : words) {
             String convert = "";
             for(char c : word.toCharArray()) {
-                convert += morse[c - 97];
+                convert += morse[c - 97]; // rather than the ASCII code, could of used 'a'
             }
             converted.add(convert);
         }
