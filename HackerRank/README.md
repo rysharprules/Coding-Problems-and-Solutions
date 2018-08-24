@@ -112,28 +112,28 @@
 
 |Challenge|Solution|
 |:---:|:---:|
-| [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [solution.js]() |
-| [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | [solution.js]() |
-| [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [solution.js]() |
-| [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [solution.js]() |
-| [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [solution.js]() |
-| [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) | [solution.js]() |
-| [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem) | [solution.js]() |
-| [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | [solution.js]() |
-| [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem) | [solution.js]() |
-| [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [solution.js]() |
-| [Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw/problem) | [solution.js]() |
-| [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [solution.js]() |
-| [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem) | [solution.js]() |
-| [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem) | [Polygon.js]() |
-| [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [Rectangle.js]() |
-| [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [solution.js]() |
-| [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | [solution.js]() |
-| [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [solution.js]() |
-| [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | [solution.js]() |
-| [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | [solution.js]() |
-| [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | [solution.js]() |
-| [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | [solution.js]() |
-| [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | [directory:/]() |
-| [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | [directory:/]() |
-| [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | [directory:/]() |
+| [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%200%20-%20Hello%20World!/solution.js) |
+| [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%200%20-%20Data%20Types/solution.js) |
+| [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%201%20-%20Arithmetic%20Operators/solution.js) |
+| [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%201%20-%20Functions/solution.js) |
+| [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%201%20-%20Let%20and%20Const/solution.js) |
+| [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%202%20-%20Conditional%20Statements%20-%20If-Else/solution.js) |
+| [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%202%20-%20Conditional%20Statements%20-%20Switch/solution.js) |
+| [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%202%20-%20Loops/solution.js) |
+| [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%203%20-%20Arrays/solution.js) |
+| [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%203%20-%20Try%2C%20Catch%2C%20and%20Finally/solution.js) |
+| [Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%203%20-%20Throw/solution.js) |
+| [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%204%20-%20Create%20a%20Rectangle%20Object/solution.js) |
+| [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%204%20-%20Count%20Objects/solution.js) |
+| [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem) | [Polygon.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%204%20-%20Classes/Polygon.js) |
+| [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [Rectangle.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%204%20-%20Create%20a%20Rectangle%20Object/solution.js) |
+| [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%205%20-%20Template%20Literals/solution.js) |
+| [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%205%20-%20Arrow%20Functions/solution.js) |
+| [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%206%20-%20Bitwise%20Operators/solution.js) |
+| [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%206%20-%20JavaScript%20Dates/solution.js) |
+| [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%207%20-%20Regular%20Expressions%20I/solution.js) |
+| [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%207%20-%20Regular%20Expressions%20II/solution.js) |
+| [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | [solution.js](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/10%20Days%20of%20Javascript/Day%207%20-%20Regular%20Expressions%20III/solution.js) |
+| [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | [directory:/](https://github.com/rysharprules/Sandbox/tree/master/HackerRank/10%20Days%20of%20Javascript/Day%208%20-%20Create%20a%20Button) |
+| [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | [directory:/](https://github.com/rysharprules/Sandbox/tree/master/HackerRank/10%20Days%20of%20Javascript/Day%208%20-%20Buttons%20Container) |
+| [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | [directory:/](https://github.com/rysharprules/Sandbox/tree/master/HackerRank/10%20Days%20of%20Javascript/Day%209%20-%20Binary%20Calculator) |
