@@ -5,9 +5,9 @@ class Solution {
 
     public String toLowerCaseNoCheating(String str) {
         StringBuilder sb = new StringBuilder();
-        for(char c : str.toCharArray()){
-            if(65 <= c && c <= 90){ // within ASCII boundaries of A to Z
-                c = (char)(c + 32); // add 32 to make lower case version of same letter, e.g. A (65) becomes a (97)
+        for (char c : str.toCharArray()) {
+            if (65 <= c && c <= 90) { // within ASCII boundaries of A to Z
+                c = (char) (c + 32); // add 32 to make lower case version of same letter, e.g. A (65) becomes a (97)
             }
             sb.append(c);
         }
