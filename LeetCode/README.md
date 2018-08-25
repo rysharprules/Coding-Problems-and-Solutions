@@ -15,7 +15,7 @@
 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Hamming%20Distance/Solution.java) |
 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Flipping%20an%20Image/Solution.java) |
 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Judge%20Route%20Circle/Solution.java) |
-
+| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Merge%20Two%20Binary%20Trees/Solution.java) |
 
 ## Database
 ### Easy
