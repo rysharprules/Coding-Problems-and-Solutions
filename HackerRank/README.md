@@ -96,6 +96,7 @@
 | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Advanced/Java%20Lambda%20Expressions/Solution.java) |
 | [Java MD5](https://www.hackerrank.com/challenges/java-md5) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Advanced/Java%20MD5/Solution.java) |
 | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Advanced/Java%20SHA-256/Solution.java) |
+| [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Advanced/Java%20Varargs%20-%20Simple%20Addition/Solution.java) |
 
 ## Problem Solving
 ### Warmup

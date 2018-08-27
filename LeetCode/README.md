@@ -16,6 +16,8 @@
 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Flipping%20an%20Image/Solution.java) |
 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Judge%20Route%20Circle/Solution.java) |
 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Merge%20Two%20Binary%20Trees/Solution.java) |
+| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Peak%20Index%20in%20a%20Mountain%20Array/Solution.java) |
+| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/LeetCode/Algorithms/Easy/Self%20Dividing%20Numbers/Solution.java) |
 
 ## Database
 ### Easy
