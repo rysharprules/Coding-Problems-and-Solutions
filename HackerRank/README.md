@@ -6,6 +6,29 @@
     All the solutions here are Accepted. There may be occasions where the Problem is solved using the Java API or by a different method suggested by the Problem case - On these occasions, for completeness (or due to guilt) alternate solutions are provided. 
 </p>
 
+## 30 Days of Code
+|Challenge|Solution|
+|:---:|:---:|
+| [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%200%20-%20Hello,%20World/Solution.java) |
+| [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%201-%20Data%20Types/Solution.java) |
+| [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%202%20-%20Operators/Solution.java) |
+| [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%203%20-%20Intro%20to%20Conditional%20Statements/Solution.java) |
+| [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%204%20-Class%20vs.%20Instance/Solution.java) |
+| [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%205%20-Loops/Solution.java) |
+| [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%206%20-Let's%20Review/Solution.java) |
+| [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%207%20-Arrays/Solution.java) |
+| [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%208%20-Dictionaries%20and%20Maps/Solution.java) |
+| [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%209%20-Recursion%203/Solution.java) |
+| [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2010%20-Binary%20Numbers/Solution.java) |
+| [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2011%20-2D%20Arrays/Solution.java) |
+| [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2012%20-Inheritance/Solution.java) |
+| [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2013%20-Abstract%20Classes/Solution.java) |
+| [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2014%20-%20Scope/Solution.java) |
+| [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2015%20-%20Linked%20List/Solution.java) |
+| [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2016%20-%20Exceptions%20-%20String%20to%20Integer/Solution.java) |
+| [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%201720-%20More%20Exceptions/Solution.java) |
+| [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%201820-%20Queues%20and%20Stacks/Solution.java) |
+
 ## Java
 ### Introduction
 
@@ -97,6 +120,8 @@
 | [Java MD5](https://www.hackerrank.com/challenges/java-md5) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Advanced/Java%20MD5/Solution.java) |
 | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Advanced/Java%20SHA-256/Solution.java) |
 | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Advanced/Java%20Varargs%20-%20Simple%20Addition/Solution.java) |
+| [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Advanced/Java%20Singleton%20Pattern/Solution.java) |
+| [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Java/Advanced/Java%20Reflection%20-%20Attributes/Solution.java) |
 
 ## Problem Solving
 ### Warmup
