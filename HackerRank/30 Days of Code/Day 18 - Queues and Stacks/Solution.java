@@ -13,7 +13,6 @@ public class Solution {
         return stack.pop();
     }
 
-
     void enqueueCharacter(char ch) {
         queue.add(ch);
     }

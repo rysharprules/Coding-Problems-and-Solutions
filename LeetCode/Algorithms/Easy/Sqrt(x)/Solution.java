@@ -1,4 +1,5 @@
 // TAG: binarySearch
+// TAG: sqrt
 class Solution {
 
     // use the Java API's Math utils

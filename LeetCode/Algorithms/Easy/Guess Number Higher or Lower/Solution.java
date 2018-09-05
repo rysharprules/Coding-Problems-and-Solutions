@@ -1,4 +1,3 @@
-// TAG: binarySearch
 /* The guess API is defined in the parent class GuessGame.
    @param num, your guess
    @return -1 if my number is lower, 1 if my number is higher, otherwise return 0
@@ -6,6 +5,7 @@
 */
 import java.time.Instant;
 
+// TAG: binarySearch
 public class Solution extends GuessGame {
 
     public static void main(String ...args) {

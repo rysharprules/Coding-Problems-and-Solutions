@@ -1,6 +1,7 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
+// TAG: prime
 public class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);

@@ -6,6 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+// TAG: factorial
 public class Solution {
 
     static int factorial(int n) {

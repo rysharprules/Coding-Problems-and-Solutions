@@ -1,15 +1,24 @@
-# Sandbox
+# Coding Problems & Solutions
 
-<p>
-    <img src="https://raw.githubusercontent.com/rysharprules/Sandbox/master/sandbox.png" height="117" width="168">
-    <br/>
-    Dumping ground for quizzes, algorithms, tutorials, revision notes etc.
-</p>
-<p>
-    The code here is intended for my own personal development, but if it helps someone else, then I'm glad. I make no promises regarding quality or completeness.
-</p>
+A dumping ground for solutions to coding problems from various sources, such as HackerRank and LeetCode.
 
-##
+### Problem Sources
 
-- [HackerRank](https://github.com/rysharprules/Sandbox/tree/master/HackerRank)
-- [LeetCode](https://github.com/rysharprules/Sandbox/tree/master/LeetCode)
+<a href="https://github.com/rysharprules/Sandbox/tree/master/HackerRank" ><img src="https://raw.githubusercontent.com/rysharprules/Sandbox/master/HackerRank/hackerrank_icon.png" /></a><br />
+#####
+<a href="https://github.com/rysharprules/Sandbox/tree/master/LeetCode" ><img src="https://raw.githubusercontent.com/rysharprules/Sandbox/master/LeetCode/leetcode_icon.png" /></a><br />
+<br />
+
+###### Tags
+
+Some files are tagged using comments to help searching particular topics, e.g. `// TAG: binarySearch`.
+
+|TAG|Description|
+|:---|:---|
+|`binarySearch`|[Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)|
+|`bitwise`|Bitwise and Bit Shift Operators|
+|`factorial`|[Factorial](https://en.wikipedia.org/wiki/Factorial)|
+|`powerOf`|Power of n, i.e. [Exponentiation](https://en.wikipedia.org/wiki/Exponentiation)|
+|`prime`|[Prime numbers](https://en.wikipedia.org/wiki/Prime_number)|
+|`regex`|[Regular expressions](https://en.wikipedia.org/wiki/Regular_expression)|
+|`sqrt`|[Square root](https://en.wikipedia.org/wiki/Square_root)|

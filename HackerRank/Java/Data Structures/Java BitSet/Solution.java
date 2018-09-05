@@ -1,6 +1,7 @@
 import java.util.*;
 import java.util.function.*;
 
+// TAG: bitwise
 public class Solution {
 
     public static void main(String[] args) {

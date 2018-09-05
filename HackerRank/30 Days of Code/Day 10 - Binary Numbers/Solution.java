@@ -6,6 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+// TAG: bitwise
 public class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);

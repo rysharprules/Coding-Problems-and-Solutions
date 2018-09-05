@@ -15,7 +15,7 @@
 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%203%20-%20Intro%20to%20Conditional%20Statements/Solution.java) |
 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%204%20-Class%20vs.%20Instance/Solution.java) |
 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%205%20-Loops/Solution.java) |
-| [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%206%20-Let's%20Review/Solution.java) |
+| [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%206%20-Let's%20Review/Solution.java) |
 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%207%20-Arrays/Solution.java) |
 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%208%20-Dictionaries%20and%20Maps/Solution.java) |
 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%209%20-Recursion%203/Solution.java) |
@@ -26,8 +26,19 @@
 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2014%20-%20Scope/Solution.java) |
 | [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2015%20-%20Linked%20List/Solution.java) |
 | [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2016%20-%20Exceptions%20-%20String%20to%20Integer/Solution.java) |
-| [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%201720-%20More%20Exceptions/Solution.java) |
-| [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%201820-%20Queues%20and%20Stacks/Solution.java) |
+| [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2017%20-%20More%20Exceptions/Solution.java) |
+| [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2018%20-%20Queues%20and%20Stacks/Solution.java) |
+| [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2019%20-%20Interfaces/Solution.java) |
+| [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2020%20-%20Sorting/Solution.java) |
+| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2021%20-%20Generics/Solution.java) |
+| [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2022%20-%20Binary%20Search%20Trees/Solution.java) |
+| [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2023%20-%20BST%20Level-Order%20Traversal/Solution.java) |
+| [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2024%20-%20More%20Linked%20Lists/Solution.java) |
+| [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2025%20-%20Running%20Time%20and%20Complexity/Solution.java) |
+| [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2026%20-%20Nested%20Logic/Solution.java) |
+| [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2027%20-%20Testing/Solution.java) |
+| [Day 28: RegEx Patterns](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2028%20-%20RegEx%20Patterns/Solution.java) |
+| [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/30%20Days%20of%20Code/Day%2029%20-%20Bitwise%20AND/Solution.java) |
 
 ## Java
 ### Introduction
@@ -134,7 +145,8 @@
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Problem%20Solving/Warmup/Plus%20Minus/Solution.java) |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution.java](https://github.com/rysharprules/Sandbox/blob/master/HackerRank/Problem%20Solving/Warmup/Staircase/Solution.java) |
 
-## 10 Days of Javascript
+## JavaScript
+### 10 Days of Javascript
 
 |Challenge|Solution|
 |:---:|:---:|

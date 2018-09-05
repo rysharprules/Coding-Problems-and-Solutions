@@ -1,4 +1,5 @@
 class Solution {
+
     public static PerformOperation isOdd() {
         return n -> (n & 1) == 1;
     }
