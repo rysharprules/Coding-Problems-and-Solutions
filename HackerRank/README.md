@@ -9,7 +9,7 @@
 ## 30 Days of Code
 |Challenge|Solution|
 |:---:|:---:|
-| [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/30%20Days%20of%20Code/Day%200 %20-%20Hello,%20World/Solution.java) |
+| [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/30%20Days%20of%20Code/Day%2000%20-%20Hello,%20World/Solution.java) |
 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/30%20Days%20of%20Code/Day%2001-%20Data%20Types/Solution.java) |
 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/30%20Days%20of%20Code/Day%2002%20-%20Operators/Solution.java) |
 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/30%20Days%20of%20Code/Day%2003%20-%20Intro%20to%20Conditional%20Statements/Solution.java) |
