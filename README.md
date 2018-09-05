@@ -4,12 +4,12 @@ A dumping ground for solutions to coding problems from various sources, such as 
 
 ### Problem Sources
 
-<a href="https://github.com/rysharprules/Sandbox/tree/master/HackerRank" ><img src="https://raw.githubusercontent.com/rysharprules/Sandbox/master/HackerRank/hackerrank_icon.png" /></a><br />
+<a href="https://github.com/rysharprules/Coding-Problems-and-Solutions/tree/master/HackerRank" ><img src="https://raw.githubusercontent.com/rysharprules/Coding-Problems-and-Solutions/master/HackerRank/hackerrank_icon.png" /></a><br />
 #####
-<a href="https://github.com/rysharprules/Sandbox/tree/master/LeetCode" ><img src="https://raw.githubusercontent.com/rysharprules/Sandbox/master/LeetCode/leetcode_icon.png" /></a><br />
+<a href="https://github.com/rysharprules/Coding-Problems-and-Solutions/tree/master/LeetCode" ><img src="https://raw.githubusercontent.com/rysharprules/Coding-Problems-and-Solutions/master/LeetCode/leetcode_icon.png" /></a><br />
 <br />
 
-###### Tags
+##### Tags
 
 Some files are tagged using comments to help searching particular topics, e.g. `// TAG: binarySearch`.
 
