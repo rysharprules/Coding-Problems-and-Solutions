@@ -80,6 +80,7 @@
 |:---:|:---:|
 | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/BigNumber/Java%20Primality%20Test/Solution.java) |
 | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/BigNumber/Java%20BigInteger/Solution.java) |
+| [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/BigNumber/Java%20BigDecimal/Solution.java) |
 
 ### Data Structures
 
@@ -133,6 +134,8 @@
 | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/Advanced/Java%20Varargs%20-%20Simple%20Addition/Solution.java) |
 | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/Advanced/Java%20Singleton%20Pattern/Solution.java) |
 | [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/Advanced/Java%20Reflection%20-%20Attributes/Solution.java) |
+| [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/Advanced/Can%20You%20Access/Solution.java) |
+| [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/Advanced/Java%20Annotations/Solution.java) |
 
 ## Problem Solving
 ### Warmup
