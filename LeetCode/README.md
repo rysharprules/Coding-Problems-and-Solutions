@@ -15,6 +15,7 @@
 |350| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Intersection%20of%20Two%20Arrays%20II/Solution.java) |
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Valid%20Perfect%20Square/Solution.java) |
 |374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Guess%20Number%20Higher%20or%20Lower/Solution.java) |
+|412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Fizz%20Buzz/Solution.java) |
 |461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Hamming%20Distance/Solution.java) |
 |561| [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Array%20Partition%20I/Solution.java) |
 |617| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Merge%20Two%20Binary%20Trees/Solution.java) |
@@ -42,6 +43,7 @@
 ### Hard
 |Number|Challenge|Solution|
 |:---|:---:|:---:|
+|4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Hard/Median%20of%20Two%20Sorted%20Arrays/Solution.java) |
 |154| [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/Solution.java) |
 
 ## Database
