@@ -10,6 +10,7 @@
 |:---|:---:|:---:|
 |1| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Two%20Sum/Solution.java) |
 |69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Sqrt(x)/Solution.java) |
+|167| [Two Sum II - Input array is sorted]() | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Solution.java) |
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/First%20Bad%20Version/Solution.java) |
 |367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Valid%20Perfect%20Square/Solution.java) |
 |374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/LeetCode/Algorithms/Easy/Guess%20Number%20Higher%20or%20Lower/Solution.java) |
