@@ -136,6 +136,7 @@
 | [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/Advanced/Java%20Reflection%20-%20Attributes/Solution.java) |
 | [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/Advanced/Can%20You%20Access/Solution.java) |
 | [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/Advanced/Java%20Annotations/Solution.java) |
+| [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem) | [Solution.java](https://github.com/rysharprules/Coding-Problems-and-Solutions/blob/master/HackerRank/Java/Advanced/Prime%20Checker/Solution.java) |
 
 ## Problem Solving
 ### Warmup
